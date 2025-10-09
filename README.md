@@ -82,9 +82,9 @@ Este projeto representa o modelo de dados para um sistema de gerenciamento de um
 
 ## 📊 Modelo Conceitual
 
-![Modelo ER](img/ModeloConceitual
+![Modelo ER](img/ModeloConceitual.png)
 
 ## 📊 Modelo Lógico
 
-![Modelo MR](img/lojaRoupa-ModeloLógico
+![Modelo MR](img/lojaRoupa-ModeloLógico.jpg)
 
