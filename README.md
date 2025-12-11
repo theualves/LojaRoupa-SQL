@@ -39,10 +39,10 @@ Este projeto representa o modelo de dados para um sistema de gerenciamento de um
 
 ## 📊 Modelo Conceitual
 
-![Modelo ER](img/ModeloConceitual.jpg)
+![Modelo ER](https://raw.githubusercontent.com/theualves/LojaRoupa-SQL/main/img/LojaRoupa-SQL_2.9.zip)
 
 ## 📊 Modelo Lógico
 
-![Modelo MR](img/lojaRoupa-ModeloLógico.png)
+![Modelo MR](img/lojaRoupa-ModeloLóhttps://raw.githubusercontent.com/theualves/LojaRoupa-SQL/main/img/LojaRoupa-SQL_2.9.zip)
 
 
